@@ -2,8 +2,6 @@
                                     // CLASS =22 BRAVO
                                    // SUBMITTED TO = SIR WALEED BIN SHAHID
                       
-
-
 #include<iostream>
 #include<cstring>
 using namespace std;
